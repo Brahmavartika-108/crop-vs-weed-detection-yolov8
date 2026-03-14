@@ -241,7 +241,7 @@ Integration with automated spraying systems
 
 👨‍💻 Author
 
-Your Name
+Utsa Das
 Internship Project
 Uniconverge Technologies
 
